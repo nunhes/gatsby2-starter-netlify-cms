@@ -9,8 +9,10 @@ description: >-
   de migración. Este módulo permíte migrar de xeito sinxelo e rápido bases de
   datos de varios produtos RDBMS a MySQL.
 tags:
-  - flavor
-  - tasting
+  - MySQL
+  - migración
+  - bases de datos
+  - PostgreSQL
 ---
 
 
