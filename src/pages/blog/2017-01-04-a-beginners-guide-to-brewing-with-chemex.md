@@ -7,8 +7,8 @@ description: >-
   nun só documento ou varios documentos interconectados) notros formatos máis
   axeitados para presentar (táboas, listas) ou expoñer información (paragrafos)
 tags:
-  - brewing
-  - chemex
+  - XML
+  - XSL
 ---
 # Transformación de datos con XML e XSL
 

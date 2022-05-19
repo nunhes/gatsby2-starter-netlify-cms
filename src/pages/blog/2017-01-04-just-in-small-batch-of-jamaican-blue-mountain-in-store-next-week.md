@@ -8,10 +8,8 @@ description: >-
   postas en escena da maioría das aplicacións que se poidan desenvolver con este
   marco
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - laravel
+  - titoría
 ---
 
 [TOC]
